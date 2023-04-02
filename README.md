@@ -1,8 +1,6 @@
 ### Hi there 👋
 👋 Hi, I’m @cheoljun99
 
-🌱 I’m currently learning React and JAVA Spring
-
 📫 How to reach me -> cheoljun99@naver.com
 
 <!--
