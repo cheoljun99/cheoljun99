@@ -5,7 +5,6 @@
 
 📫 How to reach me -> cheoljun99@naver.com
 
-📮 
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
