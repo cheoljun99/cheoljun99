@@ -1,11 +1,7 @@
 ### Hi there 👋
-👋 Hi, I’m @cheoljun99
+👋 Cheoljun Park
+📫 cheoljun99@naver.com
 
-🌱 I’m currently learning React and JAVA Spring
-
-📫 How to reach me -> cheoljun99@naver.com
-
-📮 
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
