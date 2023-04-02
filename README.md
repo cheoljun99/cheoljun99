@@ -1,12 +1,11 @@
 ### Hi there 👋
-👋 Hi, I’m @YEONGORI
+👋 Hi, I’m @cheoljun99
 
-🌱 I’m currently learning spring boot, docker, mysql
+🌱 I’m currently learning React and JAVA Spring
 
-📫 How to reach me -> dusrjf14@naver.com
+📫 How to reach me -> cheoljun99@naver.com
 
-📮 This is my blog -> https://velog.io/@yeongori
-
+📮 
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
