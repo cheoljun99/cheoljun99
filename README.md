@@ -3,6 +3,8 @@
 
 📫 How to reach me -> cheoljun99@naver.com
 
+⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
+
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
