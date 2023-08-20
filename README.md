@@ -1,7 +1,7 @@
 ### Hi there 👋
 👋 Hi, I’m @cheoljun99
 
-📫 How to reach me -> cheoljun99@naver.com
+📫 How to reach me -> cheoljun99@naver.com, bbolack99@gmail.com
 
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
