@@ -1,5 +1,6 @@
 ### Hi there 👋
 👋 Hi, I’m @cheoljun99
+🌱 WHS 1기-한국정보기술연구원
 
 📫 How to reach me -> cheoljun99@naver.com, bbolack99@gmail.com
 <!--
