@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hi, I’m cheoljun99
+👋 Hi, I’m Park Cheoljun
 
 🌱 WHS 1기-한국정보기술연구원
 
