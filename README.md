@@ -1,7 +1,7 @@
 ### Hi there 👋
 👋 Hi, I’m Park Cheoljun
 
-🌱 WHS 1기-한국정보기술연구원
+🌱 WHS 1기-한국정보기술연구원 (2023.09.01 ~ 2024.03.22 수료)
    
 📫 How to reach me -> cheoljun99@naver.com, cheoljun99@gmail.com
 
