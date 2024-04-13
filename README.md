@@ -9,6 +9,8 @@
    
 📫 How to reach me -> cheoljun99@naver.com, cheoljun99@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheoljun99&layout=compact&theme=demo)
+
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
 
