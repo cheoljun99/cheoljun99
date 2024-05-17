@@ -9,13 +9,7 @@
    
 📫 How to reach me -> cheoljun99@naver.com, cheoljun99@gmail.com
 
-# ⚒️ _학습하는 기술들_
-
-|                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **알고리즘 문제를 해결해요**             | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>                                                                                                                                                                                                             |
-| **문서를 보고 기능을 구현해요** | <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a> |
-| **사용해본 적 있어요**          | <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=GO&logoColor=white"/></a>            
+⚒️ 학습중인 기술들: C/C++, Windows, Linux, Docker           
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
 
