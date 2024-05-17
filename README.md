@@ -9,6 +9,10 @@
    
 📫 How to reach me -> cheoljun99@naver.com, cheoljun99@gmail.com
 
+⚒️ Skills
+비교적 능숙해요	  
+문서를 보고 기능을 구현해요	    
+사용해본 적 있어요	
 
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
