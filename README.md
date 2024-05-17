@@ -9,7 +9,14 @@
    
 📫 How to reach me -> cheoljun99@naver.com, cheoljun99@gmail.com
 
-⚒️ 학습중인 기술들: C/C++, Windows, Linux, Docker           
+🤔 관심을 가지고 학습중인 기술 
+C/C++ (알고리즘 문제를 해결해요)(좀 더 깊게 학습하고 있어요)
+Docker (개념을 공부중이에요)
+Window(비교적 능숙히 다뤄요)(window 시스템 프로그래밍을 학습하고 있어요)
+Linux(비교적 능숙히 다뤄요)(Linux 시스템 프로그래밍을 학습하고 있어요)
+
+⚒️ 능숙히 사용가능 기술
+
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
 
