@@ -19,7 +19,7 @@ Linux
 
 C/C++
 
-Window
+Windows
 
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
