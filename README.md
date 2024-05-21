@@ -15,11 +15,11 @@ Docker
 
 Linux
 
+Windows
+
 ⚒️ 비교적 능숙히 사용하는 기술
 
 C/C++
-
-Windows
 
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
