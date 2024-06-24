@@ -13,11 +13,7 @@
 
 🤔 관심을 가지고 학습중인 기술
  
-Docker
-
-Linux
-
-Windows
+Docker Linux Windows
 
 ⚒️ 비교적 능숙히 사용하는 기술
 
