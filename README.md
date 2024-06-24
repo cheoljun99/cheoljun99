@@ -1,5 +1,4 @@
-### Hi there 👋
-👋 Hi, I’m Park Cheoljun
+### 👋 Hi, I’m Park Cheoljun
 
 🌱 광운대학교 컴퓨터정보공학부 정보공학전공 (2018.03.01 ~ 2024.02.26 졸업)
 
@@ -9,15 +8,13 @@
 
 🌱 한국정보기술연구원 Best of Best 13기 보안제품개발트랙 (2024.07.01 ~ )
 
-📫 How to reach me -> cheoljun99@naver.com, cheoljun99@gmail.com
+📫 How to reach me -> cheoljun99@gmail.com
 
-🤔 관심을 가지고 학습중인 기술
- 
-Docker Linux Windows
+⚡ 자격증 -> 정보처리기사, OPIC(IM1)
 
-⚒️ 비교적 능숙히 사용하는 기술
+🤔 관심을 가지고 학습중인 기술 -> Docker, Linux, Windows
 
-C/C++
+⚒️ 비교적 능숙히 사용하는 기술 -> C/C++
 
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
