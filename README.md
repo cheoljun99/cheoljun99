@@ -8,14 +8,13 @@
 
 🌱 한국정보기술연구원 Best of Best 13기 보안제품개발트랙 (2024.07.01 ~ )
 
-📫 How to reach me -> cheoljun99@gmail.com
-
 ⚡ 자격증 -> 정보처리기사, OPIC(IM1)
 
 🤔 관심을 가지고 학습중인 기술 -> Docker, Linux, Windows, Python
 
 ⚒️ 비교적 능숙히 사용하는 기술 -> C/C++
 
+📫 How to reach me -> cheoljun99@gmail.com
 <!--
 ⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
 
