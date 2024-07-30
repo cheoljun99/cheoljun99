@@ -10,9 +10,7 @@
 
 ⚡ 자격증 -> 정보처리기사, OPIC (IM1)
 
-🤔 관심을 가지고 학습중인 기술 -> Docker, Linux, Windows, Python
-
-⚒️ 비교적 능숙히 사용하는 기술 -> C/C++
+🤔 관심을 가지고 학습중인 기술 ->  C/C++, Docker, Linux, Windows, Python
 
 📫 How to reach me -> cheoljun99@gmail.com
 <!--
