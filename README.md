@@ -1,5 +1,12 @@
 ### 👋 Hi, I’m Park Cheoljun
 
+🤔 관심을 가지고 학습중인 기술 ->  C/C++
+
+📫 How to reach me -> cheoljun99@gmail.com
+<!--
+⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheoljun99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 🌱 광운대학교 컴퓨터정보공학부 정보공학전공 (2018.03.01 ~ 2024.02.26 졸업)
 
 🌱 대한민국 육군 전술C4I운용/정비병 (Linux 서버관리) (2020.06.01 ~ 2021.12.01 전역)
@@ -8,16 +15,7 @@
 
 🌱 한국정보기술연구원 Best of Best 13기 보안제품개발트랙 (2024.07.01 ~ )
 
-⚡ 자격증 -> 정보처리기사, OPIC (IM1)
-
-🤔 관심을 가지고 학습중인 기술 ->  C/C++, Docker, Linux, Windows, Python
-
-📫 How to reach me -> cheoljun99@gmail.com
-<!--
-⚡ Fun fact: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227810
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheoljun99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+⚡ 자격증 -> 정보처리기사, OPIC (IM1)-->
 
 
 <!--
