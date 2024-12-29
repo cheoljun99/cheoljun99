@@ -1,6 +1,6 @@
-### 👋 Hi, I’m Park Cheoljun
+### 👋 Hi, I’m Cheoljun Park
 
-🤔 관심을 가지고 학습중인 기술 ->  C/C++
+🤔 Technologies of interest and currently learning ->  C/C++
 
 📫 How to reach me -> cheoljun99@gmail.com
 <!--
