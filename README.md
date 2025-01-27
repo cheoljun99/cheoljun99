@@ -2,7 +2,7 @@
 
 🤔 Technologies of interest and currently learning ->  C/C++
 
-📫 How to reach me -> cheoljun99@gmail.com
+📫 How to reach me -> cheoljun99@gmail.com & cheoljun99@kw.ac.kr
 
 
 <!--
