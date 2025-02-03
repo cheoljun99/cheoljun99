@@ -5,8 +5,6 @@
 
 📫 How to reach me -> cheoljun99@gmail.com & cheoljun99@kw.ac.kr
 
-//🔭 More Info -> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheoljun99/)](https://www.linkedin.com/in/cheoljun99/)
-
 
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
