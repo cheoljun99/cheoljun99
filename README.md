@@ -7,7 +7,6 @@
 
 🌱 I love to solve algorithm problems ㅎㅎ
 
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=dark)](https://solved.ac/cheoljun99)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheoljun99)](https://solved.ac/cheoljun99)
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
