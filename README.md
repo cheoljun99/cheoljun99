@@ -5,7 +5,7 @@
 
 📫 How to reach me -> cheoljun99@gmail.com & cheoljun99@kw.ac.kr
 
-🌱 I love to solve algorithm problem ㅎㅎ
+🌱 I love to solve algorithm problems ㅎㅎ
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=dark)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheoljun99)](https://solved.ac/cheoljun99)
