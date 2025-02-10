@@ -5,8 +5,10 @@
 
 📫 How to reach me -> cheoljun99@gmail.com & cheoljun99@kw.ac.kr
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=dark)
+🌱 I love to solve algorithm problem ㅎㅎ
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=dark)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cheoljun99)](https://github.com/mazassumnida/mazassumnida)
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
