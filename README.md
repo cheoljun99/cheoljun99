@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m Cheoljun Park
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheoljun99/)](https://www.linkedin.com/in/cheoljun99/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Notion&logoColor=white&link=https://cheoljun99.notion.site/main)](https://cheoljun99.notion.site/main)
 
 🤔 Technologies of interest and currently learning ->  C/C++
 
