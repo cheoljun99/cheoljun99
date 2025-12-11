@@ -7,10 +7,7 @@ C/C++, Object Oriented Programming, System Programming(Network), Linux Kernel, W
 
 📫 How to reach me -> cheoljun99@gmail.com & cheoljun99@kw.ac.kr
 
-🌱 I love to solve algorithm problems
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheoljun99)](https://solved.ac/cheoljun99)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=dark)](https://solved.ac/cheoljun99)
 
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +23,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📮
+
+🌱 I love to solve algorithm problems
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheoljun99)](https://solved.ac/cheoljun99)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=dark)](https://solved.ac/cheoljun99)
+
 -->
