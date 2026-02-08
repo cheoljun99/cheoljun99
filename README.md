@@ -7,7 +7,7 @@ C/C++, Object Oriented Programming, System Programming(Network), Linux Kernel, W
 
 📫 How to reach me -> cheoljun99@gmail.com & cheoljun99@kw.ac.kr
 
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=dark)](https://solved.ac/cheoljun99)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=warm)](https://solved.ac/cheoljun99)
 
 <!--
 **cheoljun99/cheoljun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
