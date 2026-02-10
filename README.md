@@ -5,7 +5,7 @@
 🤔 Technologies of interest and currently learning  
 C/C++, Object Oriented Programming, System Programming(Network), Linux Kernel, Windows Kernel
 
-📫 How to reach me -> cheoljun99@gmail.com & cheoljun99@kw.ac.kr
+📫 How to reach me -> cheoljun99@gmail.com
 
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=cheoljun99&theme=warm)](https://solved.ac/cheoljun99)
 
