@@ -3,7 +3,7 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-F3F3F3.svg?style=for-the-badge&logo=Notion&logoColor=black&link=https://cheoljun99.notion.site/main)](https://cheoljun99.notion.site/main)
 
 🤔 Technologies of interest and currently learning  
-C/C++, Object Oriented Programming, System Programming(Network), Linux Kernel, Windows Kernel
+C/C++, Object Oriented Programming, System Programming(Network), Linux Kernel, Windows Kernel, RTOS(VxWorks, FreeRTOS)
 
 📫 How to reach me -> cheoljun99@gmail.com
 
